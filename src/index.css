@@ -11,14 +11,13 @@ code {
     monospace;
 }
 
-.buttonN{
-  background-color: rgb(46, 46, 129);
-  width: 5%;
-}
+
 
 .container{
-  background-color:maroon;
-  width: 20%;
-  height:400px;
+  padding: 2%;
+  background-color:rgb(221, 65, 65);
+  width: 300px;
+  height:500px;
   margin: 0 auto;
+  border-radius: 2%;
 }
